@@ -12,7 +12,7 @@
 
 ## 🔒 California State Polytechnic University, Pomona (1):
 
-* **Introduction to Cryptography** — [👁️ View Certificate](https://drive.google.com/file/d/1DZoVv49WJ_CSBVCk5bb7xTsACbDVwMmV/preview)
+* **Introduction to Cryptography** — [👁️ View Certificate](https://drive.google.com/file/d/1__EAzsZUfYYZ6xoYWn3i3XcRkXZgmCqV/preview)
 
 ---
 
@@ -27,7 +27,7 @@
 
 ## 🔒 West Virginia Northern Community College (1):
 
-* **Introduction to Mobile Security** — [👁️ View Certificate](https://drive.google.com/file/d/1mMEhh3xzthIWEzEGb8z9GE_8j_y270uC/preview)
+* **Introduction to Mobile Security** — [👁️ View Certificate](https://drive.google.com/file/d/1zVEXuex6lh3pOL3jvrNtGQ84ILk4dDgv/preview)
 
 ---
 
